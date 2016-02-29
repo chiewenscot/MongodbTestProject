@@ -11,7 +11,7 @@ import com.mongodb.client.result.DeleteResult;
 import com.mongodb.client.result.UpdateResult;
 
 /*
- * @author Jimmy Tai
+ * @author Chih Wen Tai
  * 
  * This class implemented example codes of accessing MongoDB using JavaDriver. A sample document downloaded from official site has attached with this class as example document.
  * 
